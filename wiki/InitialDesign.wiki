@@ -1,0 +1,11 @@
+#summary Some initial notes on the design
+
+We know that we will have some classes:
+
+* ZMachine
+  * Stack
+  * Memory
+  * IO
+   * Screen
+   * Keyboard
+   * Speaker
